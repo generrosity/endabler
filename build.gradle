@@ -12,8 +12,8 @@ apply plugin: 'net.minecraftforge.gradle.forge'
 
 
 version = "1.0.4"
-group = "fluke.stygian" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = "stygian"
+group = "generrosity.endabler" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+archivesBaseName = "endabler"
 
 sourceCompatibility = targetCompatibility = '1.8' // Need this here so eclipse task generates correctly.
 compileJava {
